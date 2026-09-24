@@ -1,0 +1,6 @@
+/vendor/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+.php-cs-fixer.cache

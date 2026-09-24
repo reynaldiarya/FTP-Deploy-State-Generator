@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "skills": {
+    "php-best-practices": {
+      "source": "asyrafhussin/agent-skills",
+      "sourceType": "github",
+      "computedHash": "4ec7edc12bdbaefe464715d0eedc14678696df4ae28d1cd32237827c735dd69c"
+    },
+    "security-review": {
+      "source": "getsentry/skills",
+      "sourceType": "github",
+      "computedHash": "453c810edf070323a8a5ef2b551813d5c9fb98b2f56a54446e184e1fd3f39978"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+parameters:
+    level: 9
+    paths:
+        - generate-sync-state.php
+    excludePaths:
+        - vendor/
+    tips: 
+        discoveringSymbols: false
